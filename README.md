@@ -1,5 +1,5 @@
 Téléportation au Sol
-Un script FiveM permettant aux joueurs de se téléporter à une position sur le sol 
+Un script FiveM permettant aux joueurs de se téléporter à une position sur le sol lorsqu'il tombe sous la map
 
 # Prérequis
 Aucun, il est autonome !
